@@ -1,0 +1,7 @@
+#c1 {
+	width: 600px;
+	height: 800px;
+	border: 2px solid black;
+	margin: 0px;
+	background: linear-gradient(-45deg, #1E90FF, #B0C4DE);
+}
